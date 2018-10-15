@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>Spring Boot Web Application</name>
-	<description>Spring Boot Web Application</description>
+	<description>Spring Boot Web Application with thymeleaf</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
